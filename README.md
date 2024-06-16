@@ -39,4 +39,4 @@ Question asked:
 What is agent memory?
 
 Generated answer:
-![alt text](image.png)
+![Screenshot 2024-06-16 223002](https://github.com/gokulsabari22/advance_rag/assets/57941940/ef830e6b-0382-4150-b72a-19929e434107)
