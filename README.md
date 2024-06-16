@@ -24,3 +24,19 @@ The provided workflow diagram outlines the sequential process for handling docum
 This flow ensures a systematic approach to document handling, allowing for optional information enhancement through web searches before final content generation.
 
 
+Environment Variables
+
+1) OPENAI_API_KEY
+2) TAVILY_API_KEY
+3) LANGCHAIN_API_KEY
+
+Vector Database Used
+Chroma DB
+
+Output
+
+Question asked:
+What is agent memory?
+
+Generated answer:
+![alt text](image.png)
