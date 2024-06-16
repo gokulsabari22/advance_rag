@@ -31,11 +31,13 @@ Environment Variables
 3) LANGCHAIN_API_KEY
 
 Vector Database Used
+
 Chroma DB
 
 Output
 
 Question asked:
+
 What is agent memory?
 
 Generated answer:
