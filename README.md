@@ -30,8 +30,8 @@ Environment Variables
 2) TAVILY_API_KEY
 3) LANGCHAIN_API_KEY
 
-Vector Database Used
-
+**Vector Database Used
+**
 Chroma DB
 
 Output
